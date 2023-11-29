@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cloudbun" alt="cloudbun" /></a> </p>
 
-- 🔭 I’m currently working on **Creating a python script to automate downloads**
+- 🔭 I’m currently working on **Creating a Discord Bot with a Friend using Terraform + Docker!**
 
 - 🌱 I’m currently learning **Rust and Python**
 
-- 👯 I’m looking to collaborate on **Docker!**
+- 👯 I’m looking to collaborate on **Docker and Python!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
