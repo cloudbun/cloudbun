@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cloudbun" alt="cloudbun" /></a> </p>
 
-- 🔭 I’m currently working on **Creating a Discord Bot with a Friend using Terraform + Docker!**
+- 🔭 I’m currently working on **Learning how to use Terraform + Docker!**
 
-- 🌱 I’m currently learning **Rust and Python**
+- 🌱 I’m currently learning **Rust, Go, and Python**
 
 - 👯 I’m looking to collaborate on **Docker and Python!**
 
